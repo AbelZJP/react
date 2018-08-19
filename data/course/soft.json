@@ -1,0 +1,52 @@
+[
+	{
+		"text": "ps",
+		"num": "20",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-01.png"
+	},
+	{
+		"text": "maya",
+		"num": "21",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-010.png"
+	},
+	{
+		"text": "sai",
+		"num": "22",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-04.png"
+	},
+	{
+		"text": "ai",
+		"num": "23",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-02.png"
+	},
+	{
+		"text": "cdr",
+		"num": "24",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-07.png"
+	},
+	{
+		"text": "3dmax",
+		"num": "25",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-08.png"
+	},
+	{
+		"text": "zbrush",
+		"num": "26",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-09.png"
+	},
+	{
+		"text": "unity3d",
+		"num": "27",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-05.png"
+	},
+	{
+		"text": "clipstudio",
+		"num": "28",
+		"img": "http://assets-cdn.lanqb.com/images/soft/clipstudio-011.png"
+	},
+	{
+		"text": "其他",
+		"num": "29",
+		"img": "http://assets-cdn.lanqb.com/images/soft/softwares-03.png"
+	}
+]
